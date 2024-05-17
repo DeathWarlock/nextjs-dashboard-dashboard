@@ -1,4 +1,5 @@
 import clsx from 'clsx';
+'user client'
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   children: React.ReactNode;
