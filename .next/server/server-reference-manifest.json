@@ -1,0 +1,78 @@
+{
+  "node": {
+    "f457ddfbf7297346a7d18194133dd2a78293a0be": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+      }
+    },
+    "4f1b2c9fb6faf0c7615506b7e023222ad3eba0dd": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+      }
+    },
+    "d702b44ea827f3ac55293d2900486aadad933201": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+      }
+    },
+    "1f3d0e25f34c0735ef5f5845b7ab90058f3afbc4": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+      }
+    },
+    "55fc5613089f0babafe86f3ca331bc05dfc9a773": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/customers/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CBYU%5C%5CBYU%20Idaho%5C%5CWDD%20430%20-%20Web%20Full-Stack%20Development%5C%5CWeek%2002%5C%5CNextJs%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "rsc",
+        "app/dashboard/customers/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "8Xj8RK9XD54Ri4bXKXyEzZ7wILRnM5ag+tLFZ95gN8Y="
+}
